@@ -2,10 +2,9 @@
 
 While most phones have the ability to display the local time throughout the world, you may not always have access to an internet connection. With our World Clock, all you need is a GPS signal.
 
-## Table of Contents
+![hero](images/hero.jpg)
 
 - [GPS World Clock](#GPS-World-Clock)
-  - [Table of Contents](#Table-of-Contents)
   - [Bill of Materials](#Bill-of-Materials)
     - [Optional Extras](#Optional-Extras)
   - [Connection Table](#Connection-Table)
